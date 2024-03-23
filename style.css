@@ -82,6 +82,8 @@ body {
 }
 
 .faq-container__icon {
+  width: 18.64px;
+  height: 10.279px;
   transition: transform 0.15s ease-in-out;
 }
 
